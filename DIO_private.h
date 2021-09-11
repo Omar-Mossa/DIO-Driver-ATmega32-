@@ -29,7 +29,7 @@
 
 
 
-/***** Concatenation Function for Port initializatioln ***********/
+/***** Concatenation Function for Port initialization ***********/
 
 #define CONC(PIN7,PIN6,PIN5,PIN4,PIN3,PIN2,PIN1,PIN0)			CONC_HELP(PIN7,PIN6,PIN5,PIN4,PIN3,PIN2,PIN1,PIN0)
 
